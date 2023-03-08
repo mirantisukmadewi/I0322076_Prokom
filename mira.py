@@ -1,0 +1,2 @@
+nama = "mira"
+print(nama)
